@@ -1,6 +1,6 @@
 # Maxim ⚡
 
-> **Offline-first Python IDE, Desktop Autonomous Agent, and Free-Hosted Cloud Backend.**
+> **Offline-first Python IDE, Desktop Autonomous Agent.**
 
 Maxim is an open-source development platform built around a single unified TypeScript core, spanning three deployment tiers:
 - 🌐 **Web Edition ($0)**: Zero-install offline-first browser Python IDE powered by Pyodide (WASM) in a Web Worker and IndexedDB persistence.

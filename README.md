@@ -1,6 +1,6 @@
 # Maxim ⚡
 
-> **Offline-first Python IDE, distributed & collaborative first.**
+> **Offline-first, distributive and collaborative Python IDE, with native support for AI agents and code graph.**
 > Being developed towards a polyglot runtime support IDE.
 
 Maxim is an open-source development platform built around a single unified TypeScript core, spanning three deployment tiers:
